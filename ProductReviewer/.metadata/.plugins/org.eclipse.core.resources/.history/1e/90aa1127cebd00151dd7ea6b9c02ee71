@@ -1,0 +1,15 @@
+package com.psl.model;
+
+import java.sql.Blob;
+import java.util.Date;
+
+
+
+public class ReviewReplyDetails {
+
+	private String rReplyId;
+	private String rReviewId;
+	private String rReplyMessage;
+	private Blob rReplyVideo;
+	private Date rReviewDate;
+}

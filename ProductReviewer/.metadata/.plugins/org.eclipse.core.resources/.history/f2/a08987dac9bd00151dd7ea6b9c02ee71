@@ -1,0 +1,10 @@
+package com.psl.model;
+
+public class RatingDetails {
+
+	private Product product;
+	private int noOfCustomers;
+	private int rating;
+	private float averageRating;
+	
+}

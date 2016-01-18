@@ -1,0 +1,11 @@
+package com.psl.model;
+
+import java.util.Date;
+
+public class QueryReplyDetails {
+
+	private String qReplyId;
+	private String qReviewId;
+	private String qReplyMessage;
+	private Date qReviewDate;
+}

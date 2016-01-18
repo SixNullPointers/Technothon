@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.psl.model.CustomerStatus"/>
+<fullyQualifiedTypeName name="com.psl.model.RequestStatus"/>
+<fullyQualifiedTypeName name="com.psl.model.Customer"/>
+<fullyQualifiedTypeName name="com.psl.model.Product"/>
+<fullyQualifiedTypeName name="java.sql.Blob"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.psl.bean.Customer"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,12 @@
+package com.psl.model;
+
+public class RequestDetails {
+
+	private String requestId;
+	private RequestStatus status;
+	private Customer customer;
+	private Product product;
+	
+	
+	
+}

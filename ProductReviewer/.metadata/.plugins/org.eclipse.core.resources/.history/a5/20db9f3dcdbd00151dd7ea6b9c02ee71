@@ -1,0 +1,39 @@
+package com.psl.model;
+
+public class Product {
+
+	private String productId;
+	private String productName;
+	private double productPrice;
+	
+	private Category category;
+	
+	public Product() {
+
+	}
+	public String getProductId() {
+		return productId;
+	}
+	public void setProductId(String productId) {
+		this.productId = productId;
+	}
+	public String getProductName() {
+		return productName;
+	}
+	public void setProductName(String productName) {
+		this.productName = productName;
+	}
+	public double getProductPrice() {
+		return productPrice;
+	}
+	public void setProductPrice(double productPrice) {
+		this.productPrice = productPrice;
+	}
+	public Category getCategory() {
+		return category;
+	}
+	public void setCategory(Category category) {
+		this.category = category;
+	}
+	
+}
